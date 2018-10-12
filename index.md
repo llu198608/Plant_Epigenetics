@@ -20,6 +20,14 @@
 
 2006 ~ 2012	分子生物学博士	华中农业大学， 导师：周道绣 教授
 
+### 研究计划|Research Plan
+
+#第一点
+
+#第二点
+
+#第三点
+
 
 ### 已发表论文|Publications
 
@@ -35,14 +43,6 @@
 7.	**Xiangsong Chen**, Yongfeng Hu, Dao-Xiu Zhou. Epigenetic gene regulation by plant Jumonji group of histone demethylase. Biochimica et Biophysica Acta. (2011), 1809:421-426. 
 
 [Link](url) and ![Image](src)
-
-### 研究计划
-
-#第一点
-
-#第二点
-
-#第三点
 
 
 ### 加入我们
