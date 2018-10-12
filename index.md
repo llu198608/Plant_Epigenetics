@@ -29,7 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 加入我们
 
-实验室热烈欢迎对植物表观遗传学有兴趣的博士和博士后加入。
+实验室热忱欢迎对植物表观遗传学有兴趣的博士和博士后加入。
 
 ### 联系方式
 Email: xiangsongchen@gmail.com
