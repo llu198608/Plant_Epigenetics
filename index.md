@@ -11,17 +11,11 @@
 陈香嵩（Xiangsong Chen）
 武汉大学生科院 特聘研究员
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 已发表论文
 
 ```markdown
 Syntax highlighted code block
 
-# 陈香嵩 Xiangsong Chen
-## 武汉大学生科院 特聘研究员
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
