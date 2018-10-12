@@ -27,10 +27,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 加入我们
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/llu198608/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+实验室热烈欢迎对植物表观遗传学有兴趣的博士和博士后加入。
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 联系方式
+Email: xiangsongchen@gmail.com
+......
