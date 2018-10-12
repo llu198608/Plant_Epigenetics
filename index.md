@@ -24,7 +24,8 @@
 ### 已发表论文|Publications
 
 1. **Xiangsong Chen**, Li Lu, Shuiming Qian, Mark Scalf, Lloyd M. Smith, Xuehua Zhong. Canonical and non-canonical actions of Arabidopsis histone deacetylases in ribosomal RNA processing. Plant Cell (2018), 30:134-152. 
-   该文章被当期[Plant Cell杂志重点推荐]（https://plantae.org/recognizing-featured-plant-cell-first-authors-xiangsong-chen/）
+   
+   该文章被当期[Plant Cell杂志重点推荐](https://plantae.org/recognizing-featured-plant-cell-first-authors-xiangsong-chen/)
 
 2. **Xiangsong Chen**, Li Lu, Kevin Mayer, Mark Scalf, Shuiming Qian, Aaron Lomax, Lloyd Smith, Xuehua Zhong. POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in Arabidopsis. eLife (2016), 5:e17214.
 3. Li Lu#, **Xiangsong Chen**# (共同第一), Shuiming Qian, Xuehua Zhong. The plant-specific histone residue Phe41 is important for genome-wide H3.1 distribution. Nature Communications (2018), 9:630. 
