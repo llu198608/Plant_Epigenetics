@@ -9,7 +9,7 @@
 
 ### 实验室成员|People
 
-#### 陈香嵩（Xiangsong Chen）
+# 陈香嵩（Xiangsong Chen）
 
 
 2019 ~   今      武汉大学生科院 特聘研究员
@@ -20,7 +20,7 @@
 
 2006 ~ 2012	分子生物学博士	华中农业大学， 导师：周道绣 教授
 
-### 研究计划|Research Plan
+### 研究课题|Research Projects
 
 #第一点
 
@@ -51,4 +51,5 @@
 
 ### 联系方式
 Email: xiangsongchen@gmail.com
+
 
