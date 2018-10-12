@@ -9,7 +9,7 @@
 
 ### 实验室成员|People
 
-# 陈香嵩（Xiangsong Chen）
+**陈香嵩（Xiangsong Chen)**
 
 
 2019 ~   今      武汉大学生科院 特聘研究员
@@ -22,11 +22,11 @@
 
 ### 研究课题|Research Projects
 
-#第一点
+**第一点**
 
-#第二点
+**第二点**
 
-#第三点
+**第三点**
 
 
 ### 已发表论文|Publications
