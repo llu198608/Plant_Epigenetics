@@ -12,7 +12,7 @@
 #### 陈香嵩（Xiangsong Chen）
 
 
-2019 ~       武汉大学生科院 特聘研究员
+2019 ~   今      武汉大学生科院 特聘研究员
 
 2014 ~ 	2019	美国威斯康辛大学麦迪逊分校Wisconsin Institute for Discovery. 导师：Xuehua Zhong
 
