@@ -1,17 +1,16 @@
 ## 武汉大学生科院-植物表观遗传学实验室
 
 
-### 实验室介绍
+### 实验室介绍|Introduction
 
 **表观遗传学**。。。。。。
 
 本课题组以拟南芥和水稻为研究材料。。。
 
-### 实验室成员
+### 实验室成员|People
 
-## 陈香嵩（Xiangsong Chen）
+#### 陈香嵩（Xiangsong Chen）
 
-# 武汉大学生科院 特聘研究员
 
 2019 ~       武汉大学生科院 特聘研究员
 
@@ -24,8 +23,6 @@
 
 ### 已发表论文|Publications
 
-```markdown
-
 1. **Xiangsong Chen**, Li Lu, Shuiming Qian, Mark Scalf, Lloyd M. Smith, Xuehua Zhong. Canonical and non-canonical actions of Arabidopsis histone deacetylases in ribosomal RNA processing. Plant Cell (2018), 30:134-152. 
    该文章被当期[Plant Cell杂志重点推荐]（https://plantae.org/recognizing-featured-plant-cell-first-authors-xiangsong-chen/）
 
@@ -37,7 +34,7 @@
 7.	**Xiangsong Chen**, Yongfeng Hu, Dao-Xiu Zhou. Epigenetic gene regulation by plant Jumonji group of histone demethylase. Biochimica et Biophysica Acta. (2011), 1809:421-426. 
 
 [Link](url) and ![Image](src)
-```
+
 ### 研究计划
 
 #第一点
