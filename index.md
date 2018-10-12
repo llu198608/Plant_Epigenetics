@@ -1,10 +1,12 @@
 ## 武汉大学生科院-植物表观遗传陈香嵩课题组
 
-You can use the [editor on GitHub](https://github.com/llu198608/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 实验室介绍
+
+表观遗传学。。。。。。
+本课题组以拟南芥和水稻为研究材料。。。
+
+### 实验室成员介绍
 
 陈香嵩（Xiangsong Chen）
 武汉大学生科院 特聘研究员
