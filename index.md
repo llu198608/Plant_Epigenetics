@@ -14,7 +14,7 @@
 
 2019 ~   今      武汉大学生科院 特聘研究员
 
-2014 ~ 	2019	美国威斯康辛大学麦迪逊分校Wisconsin Institute for Discovery. 导师：[Xuehua Zhong](https://zhonglab.genetics.wisc.edu/)
+2014 ~ 	2019	美国威斯康辛大学麦迪逊分校Wisconsin Institute for Discovery. 导师：[Xuehua Zhong, Assistant Professor](https://zhonglab.genetics.wisc.edu/)
 
 2013 ~ 2014	研究助理	华中农业大学作物遗传改良国家重点实验室. 导师：[周道绣 教授](http://lst.hzau.edu.cn/info/1028/1788.htm)
 
